@@ -49,8 +49,6 @@ For the best experience, especially if you plan to modify the website:
 - `styles.css` - All styling for the website
 - `script.js` - JavaScript functionality
 
-## Online Version
-The online version of this website is available at: https://wprfmdym.manus.space
 
 ## Customization
 You can customize this website by editing the HTML, CSS, and JavaScript files. The website uses a responsive design that works on mobile devices, tablets, and desktop computers.
